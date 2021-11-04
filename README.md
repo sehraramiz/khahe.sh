@@ -6,4 +6,5 @@ Install [dmenu](https://tools.suckless.org/dmenu/), [xdotool](https://github.com
 ```console
 $ sh kh.sh taarofs.txt
 ```
+![khsh](./demo.gif)
 

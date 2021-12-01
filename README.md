@@ -1,5 +1,6 @@
 # khahe.sh
 A faster way to write your taarofs
+
 یک روش سریع‌تر برای تعارف کردن.
 
 پیش نیازها
